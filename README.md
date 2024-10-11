@@ -23,5 +23,3 @@ Test out the following routes:
 1. [http://localhost:8002/docs](http://localhost:8002/docs)
 1. [http://localhost:8002/notes](http://localhost:8002/notes)
 
-
-![alt text](image.png)
