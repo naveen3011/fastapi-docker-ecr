@@ -1,14 +1,11 @@
-<<<<<<< HEAD
 # fastapi-docker-ecr
-=======
-# Developing and Testing an Asynchronous API with FastAPI and Pytest
+
+## Developing and testing an asynchronous API with FastAPI and Pytest, adding a GitHub Action to build and push a Docker image to ECR. When a PR is merged into the develop branch, the image will be tagged as develop, and when merged into the main branch, it will be tagged as latest.
 
 ## Want to learn how to build this?
 
-Check out the [post](https://testdriven.io/blog/fastapi-crud).
-
 ## Want to use this project?
-
+a
 Build the images and run the containers:
 
 ```sh
@@ -23,4 +20,3 @@ Test out the following routes:
 
 
 ![alt text](image.png)
->>>>>>> dockerize-fastapi-add-github-action-push-image-ecr
