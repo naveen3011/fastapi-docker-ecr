@@ -18,4 +18,3 @@ Test out the following routes:
 
 
 ![alt text](image.png)
->>>>>>> dockerize-fastapi-add-github-action-push-image-ecr
